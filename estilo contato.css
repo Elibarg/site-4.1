@@ -9,6 +9,8 @@ body
     position:absolute;
     top: 25%;
     left: 40%;
+    animation: bounceInUp 4s;
+
 }
 .linha2
 {
@@ -17,18 +19,24 @@ body
     position:absolute;
     top: 35%;
     left: 40%;
+    animation: bounceInUp 4s;
+
 }
 .img1
 {
  position: absolute;
  top: 24%;
  left: 33%;
+ animation: bounceInUp 4s;
+
 }
 .img2
 {
  position: absolute;
  top: 35%;
  left: 33%;
+ animation: bounceInUp 4s;
+
 }
 .linha3
 {
@@ -36,12 +44,16 @@ body
     position:absolute;
     top: 46%;
     left: 40%;
+    animation: bounceInUp 4s;
+
 }
 .img3
 {
  position: absolute;
  top: 45%;
  left: 33%;
+ animation: bounceInUp 4s;
+
 }
 .disquete
    {
